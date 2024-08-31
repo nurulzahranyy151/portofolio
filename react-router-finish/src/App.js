@@ -12,7 +12,7 @@ import Stats from './pages/Stats';
 import UserProfile from './pages/UserProfile';
 import UserDetails from './pages/UserDetails';
 import UserSettings from './pages/UserSettings';
-import usersData from './data/UserData';
+import UsersD from './data/UserData';
 
 function App() {
 const [isLoggedIn, setisLoggedIn] = useState(false);
